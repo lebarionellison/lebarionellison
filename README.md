@@ -1,31 +1,33 @@
-# Infrastructure Architect | Senior Systems Engineer
+# 🛡️ Lebarion Ellison | Infrastructure Architect
 
-**Driving 99.9% Uptime & AI-Driven Security for Global Enterprise Environments**
-
-10+ years of high-stakes experience managing hybrid cloud ecosystems, specializing in automating complex infrastructures and securing data at scale.
+> **Senior Systems Architect with 10+ years of enterprise experience specializing in Cloud Security, AI-driven Automation, and Resilient Infrastructure Design.**
 
 ---
 
-### 🛠️ Core Competencies
-* **Cloud Architecture:** Azure (Entra ID), AWS, Hybrid-Cloud Strategy.
-* **Infrastructure & Automation:** Python-based AI Remediation, PowerShell Core, Terraform.
-* **Systems & Security:** Zero-Trust Architecture, VMware vSphere, Enterprise Networking.
-* **Data Strategy:** Scalable SQL/NoSQL management and AI-driven log telemetry.
+### 🚀 The Mission
+I design and deploy self-healing enterprise environments where **99.9% uptime** is the standard. I bridge the gap between complex legacy systems and modern **AI-driven telemetry** to ensure seamless scalability and ironclad security.
+
+### 🛠️ Technical Ecosystem
+| Category | Stack |
+| :--- | :--- |
+| **Cloud Infrastructure** | AWS (EC2, S3, VPC), Azure, GCP, Hybrid Cloud |
+| **Automation & IaC** | Python, Terraform, Ansible, GitHub Actions |
+| **Security & Compliance** | Zero-Trust, IAM, Vault, Automated Remediation |
+| **Observability** | Prometheus, Grafana, Datadog, ELK Stack |
 
 ---
 
-### 🚀 Key Project: Enterprise Infrastructure Automation
-I am currently developing an **AI-Integrated Log Analyzer** that reduces incident response time by identifying root causes in real-time. 
-👉 **[View the Code Repository Here](https://github.com/lebarionellison/enterprise-infrastructure-automation)**
+### 📊 Recent Focus Areas
+* **AI for DevOps:** Integrating LLMs to automate log analysis and predictive system maintenance.
+* **Zero-Trust Architecture:** Modernizing identity management for distributed enterprise teams.
+* **Cost Optimization:** Reducing cloud spend by 30%+ through automated resource lifecycle management.
 
 ---
 
-### 📊 Professional Insights
-![Lebarion's Stats](https://github-readme-stats.vercel.app/api?username=lebarionellison&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebarionellison&layout=compact&theme=radical)
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/lebarionellison](https://linkedin.com/in/lebarionellison)
+- **Portfolio Repository:** [Technical Frameworks](https://github.com/lebarionellison?tab=repositories)
+- **Status:** 🟢 Open to Strategic Architectural Consultations & Leadership Opportunities
 
 ---
-
-### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/barry-ellison](https://www.linkedin.com/in/barry-ellison)
-* **Status:** Open to Senior Architect and Principal Engineering opportunities.
+*“Complexity is the enemy of reliability. I build for simplicity and scale.”*
