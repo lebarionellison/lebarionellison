@@ -26,7 +26,7 @@ I design and deploy self-healing enterprise environments where **99.9% uptime** 
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/lebarionellison](https://linkedin.com/in/lebarionellison)
-- **Portfolio Repository:** [Technical Frameworks](https://github.com/lebarionellison?tab=repositories)
+- **Portfolio Repository:**[FleetHealth-AI Technical Verification](https://github.com/lebarionellison/FleetHealth-AI)
 - **Status:** 🟢 Open to Strategic Architectural Consultations & Leadership Opportunities
 
 ---
