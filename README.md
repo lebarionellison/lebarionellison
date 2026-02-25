@@ -1,6 +1,6 @@
 # 🛡️ Lebarion Ellison | Infrastructure Architect
 
-> **Senior Systems Architect with 10+ years of enterprise experience specializing in Cloud Security, AI-driven Automation, and Resilient Infrastructure Design.**
+> Senior Systems Architect | SRE & AIOps | Expert in Azure Zero-Trust & macOS Kernel Debugging
 
 ---
 
