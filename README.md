@@ -1,25 +1,37 @@
-# Principal Architect | Cloud Native & Agentic AI Orchestration
+# Enterprise Cloud Architect | Kubernetes Ecosystem Design | Terraform | AWS/Azure
 
-> **Strategic focus on 100M+ scale fleet orchestration, SD-WAN fabric integrity, and Agentic AI integration for autonomous infrastructure.**
+## 🚀 About Me
+I am an **Enterprise Cloud Architect** specializing in building resilient, secure, and cost-optimized cloud ecosystems. My work focuses on bridging the gap between high-level architectural design and production-grade execution.
+
+---
+
+## 🏗️ Kubernetes Ecosystem Architecture
+This portfolio demonstrates how I architect Kubernetes-based cloud ecosystems using **Terraform**. My focus is on building scalable, secure, and production-ready platforms that support complex distributed workloads.
+
+### **Core Pillars of My Architecture:**
+* **Scalability:** High-availability EKS/AKS cluster design with automated scaling.
+* **Security:** Zero Trust networking and automated governance.
+* **Efficiency:** FinOps-driven resource optimization.
+* **Reliability:** SRE-focused observability and self-healing infrastructure.
 
 ---
 
-### 🌐 Core Architectural Domains
-| **Cloud Native & SD-WAN** | **Agentic AI & Automation** | **Enterprise Strategy** |
-| :--- | :--- | :--- |
-| Kubernetes Fleet Orchestration | Autonomous Agentic Frameworks | Multi-million Dollar Capex/Opex |
-| SD-WAN Fabric Optimization | Predictive Telemetry (Python/NumPy) | Zero Trust Architecture (ZTA) |
-| Global Traffic Engineering | Large Action Models (LAMs) | AI Governance & Compliance |
+## 🛠️ Featured Technical Frameworks
 
-### 🚀 Featured Technical Asset: Project Aegis
-This repository contains my **Predictive Telemetry Engine**, a Python-based module designed to analyze node health across global SD-WAN fabrics. 
-* **Goal:** Move from reactive troubleshooting to **Agentic Self-Healing** infrastructure.
-* **Verification:** View `telemetry_analysis.py` for the core logic.
+### **[Project Aegis]**
+*A multi-cloud identity and automated governance framework designed for secure, agentic workflows.*
 
-### 🛠️ Tech Stack & Tooling
-* **Languages:** Python (Advanced Automation), Go, Bash
-* **Platforms:** AWS/Azure/GCP, K8s, Cisco SD-WAN, VMware NSX
-* **AI Frameworks:** Agentic AI Workflows, LLM Ops, Vector Databases
+### **[FleetHealth-AI]**
+*An SRE-focused predictive maintenance simulator using Python and Azure Kubernetes Service (AKS) to process telemetry at scale.*
 
 ---
-*My GitHub Portfolio serves as the official technical verification for my architectural and coding competencies.*
+
+> [!IMPORTANT]
+> **Technical Verification:** This GitHub Portfolio serves as the official technical verification for my architectural and coding competencies.
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/lebarionellison](https://www.linkedin.com/in/lebarionellison)
+* **Email:** [barry.ellison@comcast.net](mailto:barry.ellison@comcast.net)
+* **Location:** Georgia, USA
