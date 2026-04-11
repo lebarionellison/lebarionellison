@@ -1,4 +1,5 @@
-#  Senior Cloud Architect | Kubernetes Ecosystem Architecture | Terraform | High Availability | Multi-Cloud (AWS/Azure/GKE
+#  Lebarion J. Ellison
+Senior Cloud Architect | Kubernetes Ecosystem Architecture | Terraform | High Availability | Multi-Cloud (AWS/Azure/GKE)
 
 ## 🚀 About Me
 I design and architect Kubernetes-based cloud ecosystems built for scale, high availability, and real-world production performance.
