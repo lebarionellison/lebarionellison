@@ -1,67 +1,55 @@
-#  Lebarion J. Ellison
-Senior Cloud Architect | Kubernetes Ecosystem Architecture | Terraform | High Availability | Multi-Cloud (AWS/Azure/GKE)
+# Lebarion J. Ellison
+### Senior Cloud Architect | Kubernetes Ecosystems | Terraform | High Availability
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+---
 
 ## 🚀 About Me
-I design and architect Kubernetes-based cloud ecosystems built for scale, high availability, and real-world production performance.
+I architect **Kubernetes-based cloud ecosystems** engineered for extreme scale and production resilience. My work focuses on the mechanical behavior of systems under load—optimizing failure domains, workload placement, and observability through **Infrastructure-as-Code**.
 
-My focus is on defining how systems behave under load—covering workload placement, failure domains, observability, and cost optimization—using Terraform and cloud-native architecture patterns.
-
-I don’t just build infrastructure—I design ecosystems that perform under pressure.
+* **The Philosophy:** Infrastructure is not just a resource; it is a performant ecosystem that must remain invisible to developers but impenetrable to threats.
+* **The Goal:** Moving beyond simple provisioning to design architectures that prioritize **High Availability (HA)** and **Cloud Cost Optimization**.
 
 ---
 
 ## 🏗️ Kubernetes Ecosystem Architecture
-This portfolio demonstrates how I architect Kubernetes-based cloud ecosystems using **Terraform**. My focus is on building scalable, secure, and production-ready platforms that support complex distributed workloads.
+This portfolio serves as a technical showcase of modular, multi-cloud environments built using Terraform.
 
-## Core Focus
+### 🛠️ Featured Frameworks
 
-- Kubernetes Ecosystem Architecture (EKS, AKS, GKE)
-- Terraform Infrastructure-as-Code (IaC)
-- High Availability & Multi-Region Design
-- CI/CD & Platform Engineering
-- Observability & System Visibility (Splunk, Prometheus, Grafana)
-- Security Architecture (Zero Trust, RBAC, Network Policies)
----
-
-## 🛠️ Featured Technical Frameworks
-
-kubernetes-ecosystem-platform
-
-End-to-end Kubernetes ecosystem design across multi-cloud environments using Terraform.
-
-Includes:
-- Multi-cluster architecture
-- High availability design (multi-AZ)
-- Ingress and traffic routing strategy
-- Autoscaling and workload distribution
-- CI/CD integration
-
-### terraform-multi-cloud-foundation
-
-Includes:
-- AWS / Azure / GCP provisioning
-- Modular infrastructure design
-- Environment replication (dev/test/prod)
-- Networking and security architecture
-
-cloud-ha-architecture-design
-
-### Reference architecture for designing highly available distributed systems.
-
-Focus:
-- Failover strategies
-- Traffic distribution
-- Cost-aware architecture decisions
-- Cross-AZ optimization
+| Project | Core Focus | Architecture Highlights |
+| :--- | :--- | :--- |
+| **kubernetes-ecosystem-platform** | Multi-Cloud K8s (EKS/AKS/GKE) | Multi-cluster design, Ingress/Traffic routing, & Automated Scaling. |
+| **terraform-multi-cloud-foundation** | IaC Modularization | Environment replication (Dev/Test/Prod) & Networking Security. |
+| **cloud-ha-architecture-design** | Distributed Systems | Failover strategies, Cross-AZ optimization, & Cost-aware design. |
 
 ---
 
-> [!IMPORTANT]
-> **Technical Verification:** This GitHub Portfolio serves as the official technical verification for my architectural and coding competencies.
+## 🛡️ Technical Skill Matrix
+
+* **Orchestration:** Kubernetes (EKS, AKS, GKE), Docker, Containerization Strategy.
+* **Infrastructure:** Terraform (Modular IaC), Cross-Cloud Networking, Global Load Balancing.
+* **Observability:** Prometheus, Grafana, Splunk, Datadog.
+* **Security & Compliance:** Zero Trust Architecture, RBAC, NIST AI RMF, HIPAA Compliance-as-Code.
+* **FinOps:** Cloud Cost Analytics, Predictive Resource Management, Multi-Region Efficiency.
+
+---
+
+## ⚖️ Technical Verification
+> **Notice:** This GitHub Portfolio serves as the official technical verification for my architectural methodologies, system design logic, and coding competencies.
 
 ---
 
 ## 📬 Connect With Me
-* **LinkedIn:** [linkedin.com/in/lebarionellison](https://www.linkedin.com/in/lebarionellison)
-* **Email:** [barry.ellison@comcast.net](mailto:barry.ellison@comcast.net)
-* **Location:** Georgia, USA
+<p align="left">
+<a href="https://linkedin.com/in/lebarionellison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lebarionellison" height="30" width="40" /></a>
+<a href="mailto:barry.ellison@comcast.net"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24" /></a>
+</p>
+
+**📍 Location:** Georgia, USA (Remote-Only)
