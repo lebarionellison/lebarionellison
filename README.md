@@ -13,12 +13,14 @@ I don’t just build infrastructure—I design ecosystems that perform under pre
 ## 🏗️ Kubernetes Ecosystem Architecture
 This portfolio demonstrates how I architect Kubernetes-based cloud ecosystems using **Terraform**. My focus is on building scalable, secure, and production-ready platforms that support complex distributed workloads.
 
-### **Core Pillars of My Architecture:**
-* **Scalability:** High-availability EKS/AKS cluster design with automated scaling.
-* **Security:** Zero Trust networking and automated governance.
-* **Efficiency:** FinOps-driven resource optimization.
-* **Reliability:** SRE-focused observability and self-healing infrastructure.
+## Core Focus
 
+- Kubernetes Ecosystem Architecture (EKS, AKS, GKE)
+- Terraform Infrastructure-as-Code (IaC)
+- High Availability & Multi-Region Design
+- CI/CD & Platform Engineering
+- Observability & System Visibility (Splunk, Prometheus, Grafana)
+- Security Architecture (Zero Trust, RBAC, Network Policies)
 ---
 
 ## 🛠️ Featured Technical Frameworks
