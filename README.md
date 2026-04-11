@@ -25,14 +25,34 @@ This portfolio demonstrates how I architect Kubernetes-based cloud ecosystems us
 
 ## 🛠️ Featured Technical Frameworks
 
-### **[Kubernetes Ecosystem Architecture](https://github.com/lebarionellison/kubernetes-ecosystem-architecture)**
-Enterprise-grade architecture blueprints for scalable, distributed cloud platforms across AWS and Azure.
+kubernetes-ecosystem-platform
 
-### **[Terraform Cloud Platform](https://github.com/lebarionellison/terraform-cloud-platform)**
-Modular Infrastructure-as-Code framework designed for environment parity, automation, and FinOps-driven cost savings.
+End-to-end Kubernetes ecosystem design across multi-cloud environments using Terraform.
 
-### **[Secure Cloud Ecosystem](https://github.com/lebarionellison/secure-cloud-ecosystem)**
-Hardened cloud security blueprint featuring Zero Trust networking, NIST AI RMF governance, and Splunk observability.
+Includes:
+- Multi-cluster architecture
+- High availability design (multi-AZ)
+- Ingress and traffic routing strategy
+- Autoscaling and workload distribution
+- CI/CD integration
+
+### terraform-multi-cloud-foundation
+
+Includes:
+- AWS / Azure / GCP provisioning
+- Modular infrastructure design
+- Environment replication (dev/test/prod)
+- Networking and security architecture
+
+cloud-ha-architecture-design
+
+### Reference architecture for designing highly available distributed systems.
+
+Focus:
+- Failover strategies
+- Traffic distribution
+- Cost-aware architecture decisions
+- Cross-AZ optimization
 
 ---
 
