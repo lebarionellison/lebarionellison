@@ -1,7 +1,11 @@
-# Enterprise Cloud Architect | Kubernetes Ecosystem Design | Terraform | AWS/Azure
+# Enterprise Cloud Architect |Senior Cloud Architect | Kubernetes Ecosystem Architecture | Terraform | High Availability | Multi-Cloud (AWS/Azure/GKE
 
 ## 🚀 About Me
-I am an **Enterprise Cloud Architect** specializing in building resilient, secure, and cost-optimized cloud ecosystems. My work focuses on bridging the gap between high-level architectural design and production-grade execution.
+I design and architect Kubernetes-based cloud ecosystems built for scale, high availability, and real-world production performance.
+
+My focus is on defining how systems behave under load—covering workload placement, failure domains, observability, and cost optimization—using Terraform and cloud-native architecture patterns.
+
+I don’t just build infrastructure—I design ecosystems that perform under pressure.
 
 ---
 
