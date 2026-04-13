@@ -1,45 +1,49 @@
-# Lebarion J. Ellison
-### Senior Cloud Architect | Kubernetes Ecosystems | Terraform | High Availability
+## Lebarion J. Ellison | Enterprise Cloud Architect
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-## 🚀 About Me
-I architect **Kubernetes-based cloud ecosystems** engineered for extreme scale and production resilience. My work focuses on the mechanical behavior of systems under load—optimizing failure domains, workload placement, and observability through **Infrastructure-as-Code**.
-
-* **The Philosophy:** Infrastructure is not just a resource; it is a performant ecosystem that must remain invisible to developers but impenetrable to threats.
-* **The Goal:** Moving beyond simple provisioning to design architectures that prioritize **High Availability (HA)** and **Cloud Cost Optimization**.
+## **The Success-Driven Architecture Model**
+**Design > Detection.** I architect high-availability ecosystems where technical excellence meets financial performance. My designs are engineered to slash inter-AZ data taxes and eliminate "Cloud Sprawl" through intentional topology.
 
 ---
 
-## 🏗️ Kubernetes Ecosystem Architecture
-This portfolio serves as a technical showcase of modular, multi-cloud environments built using Terraform.
+### **🏗️ Flagship Architecture: Project Aegis**
+**Goal:** Orchestrating Agentic AI workflows at scale with 100% fiscal responsibility.
 
-### 🛠️ Featured Frameworks
-
-| Project | Core Focus | Architecture Highlights |
+| **Success Metric** | **Architectural Strategy** | **Impact** |
 | :--- | :--- | :--- |
-| **kubernetes-ecosystem-platform** | Multi-Cloud K8s (EKS/AKS/GKE) | Multi-cluster design, Ingress/Traffic routing, & Automated Scaling. |
-| **terraform-multi-cloud-foundation** | IaC Modularization | Environment replication (Dev/Test/Prod) & Networking Security. |
-| **cloud-ha-architecture-design** | Distributed Systems | Failover strategies, Cross-AZ optimization, & Cost-aware design. |
+| **Client Success** | Topology-Aware Hints | ⚡ Zero Inter-AZ Latency |
+| **Vendor Success** | GKE Fleet Management | 🛠️ Immutable Operations |
+| **FinOps Success** | Knative & Bin-Packing | 💰 Scale-to-Zero GPU Costs |
 
 ---
 
-## 🛡️ Technical Skill Matrix
+### **🔭 Strategic Engineering Repositories**
 
-* **Orchestration:** Kubernetes (EKS, AKS, GKE), Docker, Containerization Strategy.
-* **Infrastructure:** Terraform (Modular IaC), Cross-Cloud Networking, Global Load Balancing.
-* **Observability:** Prometheus, Grafana, Splunk, Datadog.
-* **Security & Compliance:** Zero Trust Architecture, RBAC, NIST AI RMF, HIPAA Compliance-as-Code.
-* **FinOps:** Cloud Cost Analytics, Predictive Resource Management, Multi-Region Efficiency.
+#### **[Project-Aegis](https://github.com/lebarionellison/Project-Aegis)** ![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=flat-square) 
+*The Enterprise Control Plane for Agentic AI. Integrated with Knative for scale-to-zero FinOps.*
+
+#### **[K8s-FinOps-Governance](https://github.com/lebarionellison/K8s-FinOps-Governance)**
+![Focus](https://img.shields.io/badge/Focus-Cost--Preemption-blue?style=flat-square)
+*Terraform modules designed to eliminate cloud sprawl and inter-AZ data transfer taxes.*
+
+#### **[FleetHealth-AI](https://github.com/lebarionellison/FleetHealth-AI)**
+![Observability](https://img.shields.io/badge/Ops-Predictive--SRE-orange?style=flat-square)
+*Predictive maintenance and observability stack (Prometheus/Grafana) for high-availability fleets.*
 
 ---
+
+### **🛠️ Enterprise Stack**
+* **Methodologies:** ![Agile](https://img.shields.io/badge/Agile-Success-blue?style=flat-square) ![Waterfall](https://img.shields.io/badge/Waterfall-Compliant-lightgrey?style=flat-square)
+* **AI Lifecycle:** ![MLOps](https://img.shields.io/badge/MLOps-Optimized-green?style=flat-square) ![LLMOps](https://img.shields.io/badge/LLMOps-Integrated-green?style=flat-square)
+
+[LinkedIn](https://linkedin.com/in/lebarionellison) | Waynesboro, GA
+
+### 
 
 ## ⚖️ Technical Verification
 > **Notice:** This GitHub Portfolio serves as the official technical verification for my architectural methodologies, system design logic, and coding competencies.
