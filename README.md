@@ -1,57 +1,82 @@
 # Lebarion Ellison  
-### Senior Infrastructure Engineer / Site Reliability Engineer (SRE)
+### Senior Infrastructure Engineer / SRE Consultant
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-I build and operate **reliable, scalable cloud infrastructure** with a focus on Kubernetes, observability, and system resilience.
+## Reliability First Engineering
 
-My work centers on **reducing MTTR, improving system availability, and designing infrastructure that holds under real-world pressure**.
+I specialize in building and operating reliable cloud infrastructure with a focus on:
 
----
+- Kubernetes Operations
+- Site Reliability Engineering (SRE)
+- Infrastructure Automation
+- Observability & Monitoring
+- Incident Response & MTTR Reduction
+- Cloud Infrastructure Reliability
 
-## 🚀 What I Do
-
-- Design and operate **Kubernetes-based infrastructure at scale**
-- Build **observability platforms** (metrics, logs, traces)
-- Implement **Infrastructure as Code (Terraform)** with security guardrails
-- Apply **SRE practices (SLIs/SLOs, incident response, automation)**
-- Optimize **cloud performance and cost**
-- Support **AI/ML workloads (GPU scheduling, high-throughput systems)**
-
----
-
-## 🧠 Focus Areas
-
-Kubernetes • AWS • Azure • Terraform • Observability  
-Site Reliability Engineering • CI/CD • Incident Response  
+My approach centers on designing systems that are:
+- Observable
+- Resilient
+- Scalable
+- Recoverable under pressure
 
 ---
 
-## 🛠 Featured Work
+## 🔥 Current Focus
+
+- Kubernetes Reliability Engineering
+- Terraform Automation & Governance
+- Prometheus / Grafana Observability
+- GitOps & CI/CD Reliability
+- AI Infrastructure & GPU Workloads
+- Distributed Systems Operations
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 Aegis-AI Framework
-AI governance and orchestration system for scalable workloads  
-- Built for high-throughput distributed systems  
-- Designed for reliability and observability  
+AI infrastructure and orchestration framework focused on scalable, observable, and resilient systems.
+
+Focus Areas:
+- GPU workload orchestration
+- Infrastructure reliability
+- AI observability
+- Kubernetes automation
+- Distributed workload management
 
 ---
 
-## 📊 Engineering Mindset
+## 📊 SRE Philosophy
 
-> “Restarting systems is easy.  
-> Building systems that don’t fail is engineering.”
+> “The goal isn’t preventing every failure.  
+> The goal is building systems that fail predictably, recover intelligently, and remain observable under stress.”
 
 ---
+
+## 🛠 Core Technologies
+
+Kubernetes • Terraform • AWS • Azure • Prometheus • Grafana  
+Argo CD • Helm • OpenTelemetry • Python • CI/CD • GitOps
+
+---
+
+## 🎤 Community & Speaking
+
+Interested in speaking on:
+- Kubernetes Reliability
+- Observability
+- MTTR Reduction
+- Infrastructure Automation
+- AI Infrastructure
+- SRE Practices
 
 ## 🤝 Let’s Connect
 
-- Open to collaboration on **Infrastructure / SRE**
-- Open to **speaking on Kubernetes, reliability, and AI infrastructure**
