@@ -1,4 +1,4 @@
-![Preview](https://your-image-url.com/banner.png)
+![Banner](https://raw.githubusercontent.com/lebarionellison/lebarionellison/main/images/banner.png)
 
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
