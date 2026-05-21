@@ -1,4 +1,4 @@
-https://chatgpt.com/s/m_6a0ec7a6515481918b8ded40f84b6580
+
 
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
