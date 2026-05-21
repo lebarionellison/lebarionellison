@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/lebarionellison/lebarionellison/main/images/banner.png)
+![Banner](https://github.com/lebarionellison/lebarionellison/blob/main/images/banner.png?raw=true)
 
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
