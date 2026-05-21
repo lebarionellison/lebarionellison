@@ -1,4 +1,4 @@
-![Banner](https://github.com/lebarionellison/lebarionellison/blob/main/images/banner.png?raw=true)
+![Enterprise Cloud Architect Banner](assets/github-banner.png)
 
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
