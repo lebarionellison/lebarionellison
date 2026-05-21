@@ -1,3 +1,5 @@
+![Preview](https://your-image-url.com/banner.png)
+
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
 
