@@ -1,4 +1,4 @@
-![Enterprise Cloud Architect Banner](assets/github-banner.png)
+ChatGPT Image May 21, 2026, 04_41_34 AM.png
 
 # Lebarion Ellison  
 ### Senior Infrastructure Engineer / SRE Consultant
